@@ -1,5 +1,5 @@
 # Inherit from H9S device
-$(call inherit-product, device/EEBBK/H9S/device.mk)
+$(call inherit-product, device/EEBBK/S1S/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := S1S
