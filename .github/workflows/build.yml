@@ -13,7 +13,7 @@ on:
             default: ''
 
 env:
-  TARGET: twrp
+  TARGET: omni
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-7.1
 
 jobs:
