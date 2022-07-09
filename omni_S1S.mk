@@ -1,4 +1,4 @@
-# Inherit from H9S device
+# Inherit from S1S device
 $(call inherit-product, device/EEBBK/S1S/device.mk)
 
 # Device identifier. This must come after all inclusions
